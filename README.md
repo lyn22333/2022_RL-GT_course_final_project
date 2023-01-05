@@ -18,4 +18,4 @@ and tried to make some improvement using Beta distribution.
   ```python run_ippo.py```
 
   You can change the parameters in run_ippo.py, run_mappo.py and run_cppo.py.
-Remember to create correspongding dir in './log' if you change the `log_file`
+Remember to create corresponding dir in './log' if you change the `log_dir`
