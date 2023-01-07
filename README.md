@@ -19,3 +19,5 @@ and tried to make some improvement using Beta distribution.
 
   You can change the parameters in run_ippo.py, run_mappo.py and run_cppo.py.
 Remember to create corresponding dir in './log' if you change the `log_dir`
+
+Make `use_beta=True` if you want to use Beta distribution instead of Gaussian distribution.
